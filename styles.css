@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+
+body{
+    text-size-adjust: 150%;
+    font-family: fantasy, "Papyrus";
+}
+
+.ab_center
+{
+    height:300px;
+    width:300px;
+    background-color:#27f305;
+    position:absolute;
+    margin:auto;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
